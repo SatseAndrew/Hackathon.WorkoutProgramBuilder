@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BDB6884E-3813-4786-B98B-0A02D8D6257C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9FCAA597-8EF8-4068-BDAC-6D75D65C5ECC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WorkoutProgramBuilder2/Views/WorkoutProgramView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "131"
+            endingLineNumber = "131"
+            landmarkName = "moveWorkoutDays(from:to:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9FCAA597-8EF8-4068-BDAC-6D75D65C5ECC - c39218a4538bff87"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WorkoutProgramBuilder2.WorkoutProgramView.moveWorkoutDays(from: Foundation.IndexSet, to: Swift.Int) -&gt; ()"
+                  moduleName = "WorkoutProgramBuilder2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrewnielsen/Documents/SATS/WorkoutProgramBuilder2/WorkoutProgramBuilder2/Views/WorkoutProgramView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "9FCAA597-8EF8-4068-BDAC-6D75D65C5ECC - c39218a4538bfeda"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WorkoutProgramBuilder2.WorkoutProgramView.moveWorkoutDays(from: Foundation.IndexSet, to: Swift.Int) -&gt; ()"
+                  moduleName = "WorkoutProgramBuilder2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrewnielsen/Documents/SATS/WorkoutProgramBuilder2/WorkoutProgramBuilder2/Views/WorkoutProgramView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "9FCAA597-8EF8-4068-BDAC-6D75D65C5ECC - c39218a4538bfeda"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WorkoutProgramBuilder2.WorkoutProgramView.moveWorkoutDays(from: Foundation.IndexSet, to: Swift.Int) -&gt; ()"
+                  moduleName = "WorkoutProgramBuilder2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrewnielsen/Documents/SATS/WorkoutProgramBuilder2/WorkoutProgramBuilder2/Views/WorkoutProgramView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "196">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3309412F-94C1-4F62-B140-C586117E3996"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WorkoutProgramBuilder2/Views/WorkoutView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "145"
+            endingLineNumber = "145"
+            landmarkName = "append(workoutPhase:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3890E7FE-B124-4C14-BA1E-BFCE30663505"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WorkoutProgramBuilder2/Views/WorkoutList.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7F068E7F-40D2-498E-9AC6-0AC50BCB5796"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WorkoutProgramBuilder2/Views/WorkoutRoutineView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "addStep()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
