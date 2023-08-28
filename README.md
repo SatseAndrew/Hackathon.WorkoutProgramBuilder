@@ -31,7 +31,7 @@ Our current understanding of how happy and healthy our members are is limited to
 
 1. Clone the repository:
 ```bash
-git clone <repository_url>
+git clone https://github.com/SatseAndrew/Hackathon.WorkoutProgramBuilder
 ```
 2. Open the project in Xcode Beta 15.
 3. Install the SwiftData library if not already installed.
